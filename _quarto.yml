@@ -2,8 +2,8 @@ project:
   type: book
   output-dir: docs
 book:
-  title: "Deep Learning and Scientific Computing with R torch"
-  author: "Sigrid Keydana"
+  title: "Introduction to Deep Learning with R torch"
+  author: "Lucas Sempe"
   date: April, 2023
   chapters:
     - index.qmd
